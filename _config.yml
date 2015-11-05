@@ -1,0 +1,23 @@
+name: Blisss
+favicon: null
+layout_spectrum: 0.4104372139554471
+typography_spectrum: 0.8262687805108726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6304710546974093
+  lightness: 0.7560943863354623
+  saturation: 0.9385753420647234
+  rhythmicContrast: 0.5674787133466452
+purpose: []
